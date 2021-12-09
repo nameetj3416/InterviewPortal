@@ -1,0 +1,17 @@
+.time-picker{
+    
+    /* display: flex; */
+    padding: 5px;
+    /* background:lightblue; */
+}
+.startTime{
+    align-content: left;
+    background-color:lightblue;
+    padding: 15px;
+}
+.endTime{
+    align-items: right;
+    background-color:lightblue;
+    padding: 15px;
+
+} 
